@@ -11,7 +11,7 @@ That said, xtDetective has already helped me find two misbehaving extensions in 
 
 1. Open <a href="https://github.com/nvlgzr/xtDetective/blob/main/output/xtDetective.js">`output/xtDetective.js`</a> & copy the code
 2. Visit <a href="chrome://extensions">chrome://extensions</a> in Google Chrome
-3. Open dev tools for the resulting page (cmd+J/ctr+J)
+3. Open dev tools for the resulting page (⌥⌘J/Ctrl+Shift+J)
 4. Paste the copied code into the console
 
 You now have access to the 4 xtDetective bisection commands: start, pass, fail, and reset.
